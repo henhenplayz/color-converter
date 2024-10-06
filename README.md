@@ -1,0 +1,1 @@
+Tool for managing and converting colors in both RGB and Hexadecimal formats. It is designed to represent colors, store them in a collection, and interactively convert or retrieve colors based on user input.
